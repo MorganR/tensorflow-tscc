@@ -1,0 +1,9 @@
+{
+  "name": "tensorflow-tscc",
+  "version": "1.0.0",
+  "description": "Simple repo to verify using TFJS with TSCC",
+  "dependencies": {},
+  "devDependencies": {
+    "@tensorflow/tfjs": "^2.3.0"
+  }
+}

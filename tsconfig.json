@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "moduleResolution": "node",
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "ES2017",
+    "types": []
+  },
+  "includes": [
+    "app.ts"
+  ]
+}

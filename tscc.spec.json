@@ -1,0 +1,11 @@
+{
+  "modules": {
+    "out": "app.ts"
+  },
+  "external": {
+    "@tensorflow/tfjs-core": "tf"
+  },
+  "compilerFlags": {
+    "target": "ECMASCRIPT_2017"
+  }
+}
