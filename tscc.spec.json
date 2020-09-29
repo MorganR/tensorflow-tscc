@@ -6,6 +6,7 @@
     "@tensorflow/tfjs-core": "tf"
   },
   "compilerFlags": {
-    "target": "ECMASCRIPT_2017"
+    "language_in": "ECMASCRIPT_2017",
+    "language_out": "ECMASCRIPT_2017"
   }
 }
